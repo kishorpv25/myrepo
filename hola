@@ -12,7 +12,7 @@ reddit-oauth is a wrapper around the Reddit API providing both OAuth and passwor
 - [request][]
 - [Reddit app][]
 
-[Node.js]: http://nodejs.org/
+sc[Node.js]: http://nodejs.org/
 [request]: https://github.com/mikeal/request
 [Reddit app]: https://ssl.reddit.com/prefs/apps
 
